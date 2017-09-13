@@ -31,6 +31,7 @@ import { FooterComponent } from './footer/footer.component';
     MdToolbarModule,
     MdIconModule,
     MdCardModule,
+    MdSidenavModule,
     FlexLayoutModule
 
   ],
